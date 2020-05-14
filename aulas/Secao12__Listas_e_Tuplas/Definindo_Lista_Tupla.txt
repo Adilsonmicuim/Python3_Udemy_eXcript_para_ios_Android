@@ -1,0 +1,3 @@
+Tudo o que estiver dentro de:
+[] será considerado "lista" - Dentro de Colchetes.
+() será considerado "tupla" - Dentro de Parênteses e ou separado por vírgula. Exemplo no Video75
