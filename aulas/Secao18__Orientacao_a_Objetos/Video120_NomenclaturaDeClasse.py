@@ -6,16 +6,20 @@ utilizado em diversas linguagens de programação, como Java, C#,
 Ruby, PHP e Python, principalmente nas definições de classes e objetos.
 """
 
+
 # Nomenclatura de função
 def minha_classe():
     pass
 
-#Nomenclatura de classe
+
+# Nomenclatura de classe
 class MinhaClasse():
     pass
 
-class ConexaoBDMySQL():
+
+class ConexaoBDMySQL:
     pass
+
 
 class LeJSON:
     pass
