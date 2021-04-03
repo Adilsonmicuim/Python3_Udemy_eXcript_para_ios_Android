@@ -1,0 +1,4 @@
+http://excript.com/python/doc-kivy-ptbr.html
+
+
+https://kivy.org/doc/stable/
